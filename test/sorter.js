@@ -1,8 +1,8 @@
 'use strict';
 
 const	should  = require('chai').should(),
-			sorter  = require('../index.js');
-let   data = [1,0,5,4,2,3],
+			sorter  = require('../index.js'),
+  		data = [1,0,5,4,2,3],
 		  control = [0,1,2,3,4,5];
 
 describe('sorter', function() {
