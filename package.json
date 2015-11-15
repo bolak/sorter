@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "General purpose sorting toolkit.",
   "main": "index.js",
+  "scripts":{
+    "test": "mocha"
+  }
   "keywords": [
     "arrays",
     "sort",
