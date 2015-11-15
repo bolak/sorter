@@ -1,0 +1,17 @@
+{
+  "name": "array-sort",
+  "version": "1.0.0",
+  "description": "General purpose sorting toolkit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays",
+    "sort",
+    "sorting",
+    "algorithms"
+  ],
+  "author": "Sean Bolak <hello@seanbolak.com> (http://seanbolak.com)",
+  "license": "MIT"
+}
