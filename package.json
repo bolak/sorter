@@ -1,11 +1,11 @@
 {
-  "name": "array-sort",
+  "name": "sorter",
   "version": "1.0.0",
   "description": "General purpose sorting toolkit.",
   "main": "index.js",
   "scripts":{
-    "test": "mocha"
-  }
+    "test": "mocha test"
+  },
   "keywords": [
     "arrays",
     "sort",
