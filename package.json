@@ -1,0 +1,18 @@
+{
+  "name": "array-sort",
+  "version": "1.0.0",
+  "description": "General purpose sorting toolkit.",
+  "main": "index.js",
+  "keywords": [
+    "arrays",
+    "sort",
+    "sorting",
+    "algorithms"
+  ],
+  "author": "Sean Bolak <hello@seanbolak.com> (http://seanbolak.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  }
+}
